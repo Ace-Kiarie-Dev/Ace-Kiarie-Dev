@@ -32,6 +32,6 @@
 ---
 
 [website]: https://peterkiarie.com/
-[twitter]: https://twitter.com/home
-[linkedin]: https://www.linkedin.com/in/ace-kiarie-875562146/
+[twitter]: [https://twitter.com/home](https://twitter.com/Ace_Kiarie)
+[linkedin]: [https://www.linkedin.com/in/ace-kiarie-875562146/](https://www.linkedin.com/in/peter-kiarie/)https://www.linkedin.com/in/peter-kiarie/
 

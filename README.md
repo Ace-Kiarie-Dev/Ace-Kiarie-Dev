@@ -29,7 +29,6 @@
 <br />
 <br />
 
----
 
 [website]: https://peterkiarie.com/
 [twitter]: [https://twitter.com/home](https://twitter.com/Ace_Kiarie)

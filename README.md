@@ -31,5 +31,7 @@
 
 ---
 
-
+[website]: https://peterkiarie.com/
+[twitter]: https://twitter.com/home
+[linkedin]: https://www.linkedin.com/in/ace-kiarie-875562146/
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Peter aka ace [website]👋 
+### Hi there, I'm Peter Kiarie aka ace a Front-End developer based in Nairobi . [website]👋 
 
 ## I'm a Developer, Creator, and Producer.
 

@@ -3,7 +3,7 @@
 ## I'm a Developer, Creator, and Producer.
 
 - 🔭 I just deployed my first fullsatack webapp.
-- 🌱 I’m currently learning the MERN stack 🤣
+- 🌱 I’m currently learning Software Engineering at PLP(Powrlearn Project)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute to an Open Source projects
 - ⚡ Fun fact: I love to make music(produce) and play guitar / drums / keyboard

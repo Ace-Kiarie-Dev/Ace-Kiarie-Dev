@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I just deployed my first fullsatack webapp.<br>🌱 I’m currently learning Software Engineering at PLP(Powrlearn Project)<br>👯 I’m looking to collaborate with other content creators<br>🥅 2024 Goals: Contribute to Open Source projects<br>⚡ Fun fact: I love to make music(produce) and play guitar / drums / keyboard
+🔭 I just deployed my first fullsatack webapp.<br>🌱 I’m currently learning Software Engineering at PLP(Powrlearn Project)<br>👯 I’m looking to collaborate with other content creators<br>🥅 2026 Goals: Contribute to Open Source projects<br>⚡ Fun fact: I love to make music(produce) and play guitar / drums / keyboard
 
 
 ## 🌐 Socials:

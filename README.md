@@ -6,6 +6,7 @@
 ![Deployed](https://img.shields.io/badge/🚀_Fullstack_Products-Shipped-00d4aa?style=flat-square&labelColor=0d1117)
 ![Goal](https://img.shields.io/badge/🎯_2026-Open_Source_Contributor-6e40c9?style=flat-square&labelColor=0d1117)
 ![Music](https://img.shields.io/badge/🎸_Music-Producer-ff7eb3?style=flat-square&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/🔥_Upload_Streak-7_days_%26_counting-ffb347?style=flat-square&labelColor=0d1117)
 
 ---
 

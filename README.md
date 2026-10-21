@@ -19,6 +19,15 @@
 
 > Most of these repos are private. Click any project to see more on nesturex.com.
 
+### 📊 [Bet Ledger](https://nesturex.com/betledger) `live on Play Store`
+A bet tracking app for Kenyan sports bettors. Log your bets, see your real numbers, and get honest insights on what's working and what isn't.
+
+`React Native` `Expo` `Firebase` `Google Sign-In`
+
+[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-1a6fd4?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0a0a0a)](https://play.google.com/store/apps/details?id=com.nesture.betledger)
+
+---
+
 ### 🎮 [Solo Standoff](https://nesturex.com/solo-standoff) `in development`
 The first title from **NX Gaming**. A mobile tap-to-fire grid puzzle: every character fires when tapped, and the order of your shots is the puzzle. 70 handcrafted levels, a props tray (mirrors, walls, barrels, portals) and weekend Daily Challenges.
 
@@ -47,13 +56,6 @@ A Kenya-first money companion for young earners. Import your M-Pesa statement, g
 
 ---
 
-### 📊 [Bet Ledger](https://nesturex.com/betledger) `rebuilding`
-A bet tracking app for Kenyan sports bettors. Log your bets, see your real numbers, and get honest insights on what's working and what isn't.
-
-`React Native` `Expo` `Firebase` `Google Sign-In`
-
----
-
 ## 👨‍💻 About Me
 
 - 🏢 Founder & CEO of **Nesture-X**: web, mobile, design, print and digital marketing under one roof
@@ -71,6 +73,7 @@ A bet tracking app for Kenyan sports bettors. Log your bets, see your real numbe
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
